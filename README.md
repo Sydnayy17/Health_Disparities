@@ -1,2 +1,2 @@
-# Health_Disparities
-Health Disparities in Taiwan: Trends in the Incidence of STIs and Implications for SDG 3
+# Health Disparities in Taiwan: Trends in the Incidence of STIs and Implications for SDG 3
+
