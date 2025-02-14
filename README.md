@@ -68,6 +68,8 @@ Control Variables:
 - Gender distribution (Male to Female ratio).
 - Age distribution (percentage of population aged 15-64).
 ### Calculation
+![Alt text](https://github.com/Sydnayy17/Health_Disparities/blob/main/Screenshot%202025-02-14%20194310.png)
+
 ### Data Cleaning and preparation
 To reduce potential bias caused by geographical outliers, this study focuses on Taiwan's main island, excluding Kinmen and Lienchiang counties. Time series data at the national level has missing values due to historical record gaps, which is most likely a Missing Not at Random (MNAR) pattern. To improve prediction precision, this study uses ARIMA models to input missing data. The data will then be evaluated using time-series methods, and trends will be observed through statistical modeling and visualization. On the other hand, county-level data will be evaluated for spatial disparities using statistical tools.
 ## Methodology
